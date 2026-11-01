@@ -52,9 +52,9 @@ Final parameters:
 - Number of neighbours: 8
 - Weighting: uniform
 - Distance metric: Manhattan
-- Test accuracy: 0.83
-- Balanced accuracy: 0.83
-- ROC-AUC: 0.89
+- Test accuracy: 0.84
+- Balanced accuracy: 0.84
+- ROC-AUC: 0.90
 
 ## Applicability Domain
 
